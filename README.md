@@ -1,0 +1,1 @@
+## This repo contains code for the Glasgow Haskell Course on FutureLearn.
